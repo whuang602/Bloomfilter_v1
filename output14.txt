@@ -1,0 +1,176 @@
+c = 5 |  d = 1
+Phase <1>:
+Number of false negatives:
+0
+Number of false positives:
+10
+Probability of false positives:
+0.1
+gentle
+fumbling
+miss
+broken
+marvelous
+funk
+move
+advice
+simp
+oven
+
+Phase <2>:
+Number of false negatives:
+0
+Number of false positives:
+7
+Probability of false positives:
+0.07
+sniff
+nice
+useful
+attract
+judicious
+person
+taboo
+
+Phase <3>:
+Number of false negatives:
+0
+Number of false positives:
+7
+Probability of false positives:
+0.07
+desk
+zoom
+club
+gigantic
+suck
+important
+volatile
+
+Phase <4>:
+Number of false negatives:
+0
+Number of false positives:
+11
+Probability of false positives:
+0.11
+powerful
+hurt
+pear
+bushes
+vengeful
+limit
+house
+guarantee
+jail
+tank
+green
+
+Phase <5>:
+Number of false negatives:
+0
+Number of false positives:
+17
+Probability of false positives:
+0.17
+nine
+rate
+versed
+switch
+illegal
+heat
+yard
+warn
+tidy
+calm
+control
+hope
+neat
+room
+note
+fix
+pelican
+
+Phase <6>:
+Number of false negatives:
+0
+Number of false positives:
+6
+Probability of false positives:
+0.06
+purpose
+poor
+bake
+shock
+steel
+grieving
+
+Phase <7>:
+Number of false negatives:
+0
+Number of false positives:
+10
+Probability of false positives:
+0.1
+false
+intelligent
+sweater
+aquatic
+wash
+airplane
+tail
+girls
+soak
+fang
+
+Phase <8>:
+Number of false negatives:
+0
+Number of false positives:
+8
+Probability of false positives:
+0.08
+feeble
+heron
+snails
+sort
+women
+light
+flavor
+impolite
+
+Phase <9>:
+Number of false negatives:
+0
+Number of false positives:
+6
+Probability of false positives:
+0.06
+cayenne
+poison
+scent
+practice
+fish
+recognise
+
+Phase <10>:
+Number of false negatives:
+0
+Number of false positives:
+7
+Probability of false positives:
+0.07
+unhealthy
+join
+giant
+signal
+useless
+squeak
+frogs
+
+Number of false negatives:
+0
+Number of false positives:
+89
+Probability of false positives:
+0.089

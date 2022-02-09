@@ -1,0 +1,182 @@
+c = 4 |  d = 1
+Phase <1>:
+Number of false negatives:
+0
+Number of false positives:
+5
+Probability of false positives:
+0.05
+wrathful
+unit
+funk
+correct
+advice
+
+Phase <2>:
+Number of false negatives:
+0
+Number of false positives:
+9
+Probability of false positives:
+0.09
+exist
+sniff
+sign
+nice
+useful
+attract
+person
+thundering
+taboo
+
+Phase <3>:
+Number of false negatives:
+0
+Number of false positives:
+7
+Probability of false positives:
+0.07
+many
+quick
+maddening
+desk
+zoom
+club
+tent
+
+Phase <4>:
+Number of false negatives:
+0
+Number of false positives:
+9
+Probability of false positives:
+0.09
+powerful
+pear
+dog
+vengeful
+limit
+house
+guarantee
+jail
+tank
+
+Phase <5>:
+Number of false negatives:
+0
+Number of false positives:
+15
+Probability of false positives:
+0.15
+nine
+rate
+versed
+switch
+system
+trace
+illegal
+yard
+warn
+calm
+control
+hope
+room
+note
+few
+
+Phase <6>:
+Number of false negatives:
+0
+Number of false positives:
+9
+Probability of false positives:
+0.09
+purpose
+nippy
+cabbage
+rough
+vegetable
+gruesome
+shock
+steel
+grieving
+
+Phase <7>:
+Number of false negatives:
+0
+Number of false positives:
+13
+Probability of false positives:
+0.13
+false
+grate
+insect
+aquatic
+scene
+grey
+bloody
+tail
+bored
+girls
+soak
+spot
+synthesizer
+
+Phase <8>:
+Number of false negatives:
+0
+Number of false positives:
+9
+Probability of false positives:
+0.09
+afternoon
+heron
+level
+snails
+lowly
+bleach
+silly
+light
+flavor
+
+Phase <9>:
+Number of false negatives:
+0
+Number of false positives:
+11
+Probability of false positives:
+0.11
+clean
+sail
+glue
+past
+design
+poison
+scent
+notebook
+practice
+fish
+recognise
+
+Phase <10>:
+Number of false negatives:
+0
+Number of false positives:
+8
+Probability of false positives:
+0.08
+join
+mountainous
+visitor
+giant
+useless
+strange
+spandex
+frogs
+
+Number of false negatives:
+0
+Number of false positives:
+95
+Probability of false positives:
+0.095

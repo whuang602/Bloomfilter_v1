@@ -1,0 +1,146 @@
+c = 9 |  d = 1
+Phase <1>:
+Number of false negatives:
+0
+Number of false positives:
+3
+Probability of false positives:
+0.03
+marvelous
+funk
+advice
+
+Phase <2>:
+Number of false negatives:
+0
+Number of false positives:
+6
+Probability of false positives:
+0.06
+sniff
+nice
+useful
+attract
+person
+taboo
+
+Phase <3>:
+Number of false negatives:
+0
+Number of false positives:
+6
+Probability of false positives:
+0.06
+hollow
+desk
+zoom
+club
+noise
+mountain
+
+Phase <4>:
+Number of false negatives:
+0
+Number of false positives:
+6
+Probability of false positives:
+0.06
+powerful
+pear
+vengeful
+limit
+house
+jail
+
+Phase <5>:
+Number of false negatives:
+0
+Number of false positives:
+13
+Probability of false positives:
+0.13
+nine
+rate
+versed
+switch
+file
+illegal
+yard
+warn
+calm
+control
+hope
+room
+note
+
+Phase <6>:
+Number of false negatives:
+0
+Number of false positives:
+6
+Probability of false positives:
+0.06
+purpose
+tart
+shock
+spill
+steel
+grieving
+
+Phase <7>:
+Number of false negatives:
+0
+Number of false positives:
+5
+Probability of false positives:
+0.05
+false
+aquatic
+tail
+girls
+soak
+
+Phase <8>:
+Number of false negatives:
+0
+Number of false positives:
+5
+Probability of false positives:
+0.05
+heron
+snails
+weather
+light
+flavor
+
+Phase <9>:
+Number of false negatives:
+0
+Number of false positives:
+5
+Probability of false positives:
+0.05
+poison
+scent
+practice
+fish
+recognise
+
+Phase <10>:
+Number of false negatives:
+0
+Number of false positives:
+4
+Probability of false positives:
+0.04
+join
+giant
+useless
+frogs
+
+Number of false negatives:
+0
+Number of false positives:
+59
+Probability of false positives:
+0.059

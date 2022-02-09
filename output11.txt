@@ -1,0 +1,225 @@
+c = 2 |  d = 1
+Phase <1>:
+Number of false negatives:
+0
+Number of false positives:
+12
+Probability of false positives:
+0.12
+wrathful
+gentle
+fumbling
+broken
+even
+marvelous
+unit
+funk
+correct
+move
+whirl
+advice
+
+Phase <2>:
+Number of false negatives:
+0
+Number of false positives:
+11
+Probability of false positives:
+0.11
+bank
+exist
+sniff
+sign
+pray
+nice
+useful
+attract
+person
+thundering
+taboo
+
+Phase <3>:
+Number of false negatives:
+0
+Number of false positives:
+13
+Probability of false positives:
+0.13
+many
+quick
+disgusted
+hollow
+maddening
+desk
+selection
+zoom
+club
+tent
+sable
+volatile
+noise
+
+Phase <4>:
+Number of false negatives:
+0
+Number of false positives:
+11
+Probability of false positives:
+0.11
+powerful
+pear
+vulgar
+dog
+bushes
+vengeful
+limit
+house
+guarantee
+jail
+tank
+
+Phase <5>:
+Number of false negatives:
+0
+Number of false positives:
+19
+Probability of false positives:
+0.19
+nine
+rate
+versed
+miniature
+play
+switch
+system
+trace
+illegal
+heat
+yard
+warn
+calm
+control
+hope
+room
+note
+few
+cluttered
+
+Phase <6>:
+Number of false negatives:
+0
+Number of false positives:
+10
+Probability of false positives:
+0.1
+purpose
+nippy
+tart
+cabbage
+rough
+vegetable
+gruesome
+shock
+steel
+grieving
+
+Phase <7>:
+Number of false negatives:
+0
+Number of false positives:
+20
+Probability of false positives:
+0.2
+grin
+false
+grate
+sweater
+insect
+aquatic
+quickest
+ruthless
+shiver
+accidental
+scene
+grey
+bloody
+tail
+defiant
+bored
+girls
+soak
+spot
+synthesizer
+
+Phase <8>:
+Number of false negatives:
+0
+Number of false positives:
+16
+Probability of false positives:
+0.16
+afternoon
+feeble
+mean
+heron
+level
+snails
+lowly
+bleach
+wind
+skip
+sort
+silly
+women
+light
+flavor
+object
+
+Phase <9>:
+Number of false negatives:
+0
+Number of false positives:
+12
+Probability of false positives:
+0.12
+clean
+sail
+glue
+past
+design
+cats
+poison
+scent
+notebook
+practice
+fish
+recognise
+
+Phase <10>:
+Number of false negatives:
+0
+Number of false positives:
+14
+Probability of false positives:
+0.14
+unhealthy
+join
+chubby
+rest
+mountainous
+visitor
+giant
+analyze
+unadvised
+useless
+trucks
+strange
+spandex
+frogs
+
+Number of false negatives:
+0
+Number of false positives:
+138
+Probability of false positives:
+0.138

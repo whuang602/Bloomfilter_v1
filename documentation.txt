@@ -1,0 +1,15 @@
+Documentations:
+
+A list is used in the hash table because a list is a dynamic
+data structure that not only allows multiple values to be
+stored at one specific index but it also represents a hash 
+table with separate chaining extremely well. Access of a specific
+bucket is easy and intuitive and insertion/removal/find are all
+extremely efficient and easy.
+
+A list is used in the bloomFilter because it allows the user
+to change the size of the data structure post declaration,
+which is extremely convenient. I initially wanted to simply
+use an array, which would normally be sufficient, but an
+array requires that the size of the data structure be decided
+upon declaration, which was not possible.

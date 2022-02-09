@@ -1,0 +1,314 @@
+c = 1 |  d = 1
+Phase <1>:
+Number of false negatives:
+0
+Number of false positives:
+25
+Probability of false positives:
+0.25
+wrathful
+gentle
+yawn
+fumbling
+miss
+broken
+even
+marvelous
+flock
+streams
+unit
+funk
+correct
+loss
+move
+expensive
+jagged
+polish
+whirl
+vroom
+mindless
+advice
+farmer
+simp
+oven
+
+Phase <2>:
+Number of false negatives:
+0
+Number of false positives:
+16
+Probability of false positives:
+0.16
+bank
+exist
+report
+heavenly
+sniff
+sign
+easy
+pray
+nice
+useful
+attract
+judicious
+person
+thundering
+taboo
+narcotic
+
+Phase <3>:
+Number of false negatives:
+0
+Number of false positives:
+23
+Probability of false positives:
+0.23
+many
+quick
+disgusted
+hollow
+shocking
+cloudy
+maddening
+desk
+zoom
+club
+gigantic
+experience
+tent
+blot
+tested
+suck
+discovery
+important
+volatile
+sense
+summer
+noise
+mountain
+
+Phase <4>:
+Number of false negatives:
+0
+Number of false positives:
+23
+Probability of false positives:
+0.23
+lip
+aboard
+powerful
+bumpy
+hurt
+texture
+pear
+vulgar
+dog
+coil
+second
+bushes
+abject
+vengeful
+limit
+house
+alcoholic
+guarantee
+jail
+army
+tank
+doctor
+green
+
+Phase <5>:
+Number of false negatives:
+0
+Number of false positives:
+33
+Probability of false positives:
+0.33
+nine
+busy
+rate
+versed
+miniature
+play
+switch
+system
+trace
+file
+illegal
+rambunctious
+drawer
+heat
+yard
+warn
+tidy
+calm
+control
+hope
+neat
+dissect
+room
+tranquil
+note
+fix
+damaging
+wicked
+wire
+few
+pelican
+fascinated
+cluttered
+
+Phase <6>:
+Number of false negatives:
+0
+Number of false positives:
+18
+Probability of false positives:
+0.18
+wasteful
+purpose
+poor
+nippy
+tart
+funny
+reject
+serum
+cabbage
+bake
+rough
+vegetable
+carpenter
+gruesome
+shock
+spill
+steel
+grieving
+
+Phase <7>:
+Number of false negatives:
+0
+Number of false positives:
+24
+Probability of false positives:
+0.24
+grin
+false
+grate
+intelligent
+sweater
+insect
+aquatic
+quickest
+arch
+ruthless
+shiver
+accidental
+scene
+grey
+wash
+bloody
+tail
+treat
+bored
+girls
+soak
+spot
+fang
+synthesizer
+
+Phase <8>:
+Number of false negatives:
+0
+Number of false positives:
+27
+Probability of false positives:
+0.27
+afternoon
+feeble
+birds
+legal
+difficult
+mean
+heron
+level
+subsequent
+snails
+lowly
+bleach
+wind
+oatmeal
+skip
+weather
+sort
+silly
+women
+light
+shrill
+grumpy
+compete
+flavor
+object
+store
+impolite
+
+Phase <9>:
+Number of false negatives:
+0
+Number of false positives:
+19
+Probability of false positives:
+0.19
+clean
+gifted
+cayenne
+sail
+glue
+past
+design
+cats
+lethal
+poison
+bostonian
+scent
+monkey
+notebook
+practice
+fish
+recognise
+utopian
+well-made
+
+Phase <10>:
+Number of false negatives:
+0
+Number of false positives:
+19
+Probability of false positives:
+0.19
+unhealthy
+join
+chubby
+tin
+pass
+rest
+mountainous
+visitor
+giant
+analyze
+signal
+waves
+unadvised
+useless
+trucks
+squeak
+strange
+spandex
+frogs
+
+Number of false negatives:
+0
+Number of false positives:
+227
+Probability of false positives:
+0.227
